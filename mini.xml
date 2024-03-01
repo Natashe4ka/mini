@@ -1,0 +1,9 @@
+<library path="mini">
+  <class name="mini/MiniSystem"
+         type="mini::MiniSystem"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Robot hardware plugin for 2 dof robot tutorial.
+    </description>
+  </class>
+</library>
